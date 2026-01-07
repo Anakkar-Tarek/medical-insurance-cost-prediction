@@ -18,5 +18,5 @@ This dataset contains medical insurance cost information for beneficiaries.
 
 ### Statistics
 - Total records: 1,338
-- File size: ~50KB
+- File size: 55KB
 - No missing values
