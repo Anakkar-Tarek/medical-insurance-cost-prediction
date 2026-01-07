@@ -1,26 +1,18 @@
-# Py
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-env/
+
+# Virtual environments
 venv/
+env/
 ENV/
 .venv
 
-# Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Models
-models/*.pkl
-models/*.h5
-*.pkl
-
-# Data
-data/*.csv
-!data/README.md
 
 # IDE
 .vscode/
@@ -32,5 +24,6 @@ data/*.csv
 .DS_Store
 Thumbs.db
 
-# Environment
+# Environment variables
 .env
+
